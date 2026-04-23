@@ -41,12 +41,6 @@ I am passionate about Artificial Intelligence and Machine Learning, focusing on 
 
 ---
 
-## Projects
-
-Portfolio projects coming soon. Stay tuned.
-
----
-
 ## GitHub Stats
 
 <p align="center">
