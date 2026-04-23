@@ -17,11 +17,6 @@
 
 I am passionate about Artificial Intelligence and Machine Learning, focusing on building intelligent solutions that can process data, recognize patterns, and deliver meaningful insights. I also have a strong interest in Data Science and Data Engineering, ensuring data pipelines are well-structured, clean, and ready for advanced analytics or AI models.
 
-- **2nd Place** – Web Design Competition, GEMATIK National 2025
-- Certified in HCIA-AI V3.5 by Huawei Talent Online
-- Based in Padang, Indonesia (Universitas Negeri Padang)
-- Currently expanding skills in Machine Learning and Data Science
-
 ---
 
 ## Tech Stack
@@ -43,22 +38,6 @@ I am passionate about Artificial Intelligence and Machine Learning, focusing on 
 - Data Visualization with Matplotlib & Seaborn
 - Machine Learning with Scikit-learn
 - Deep Learning with TensorFlow
-
----
-
-## Honors & Awards
-
-| Award | Issuer | Year |
-|-------|--------|------|
-| 2nd Place – Web Design Competition (GEMATIK National) | Universitas Teknokrat Indonesia | 2025 |
-
----
-
-## Certifications
-
-| Certificate | Issuer | Year |
-|------------|--------|------|
-| HCIA-AI V3.5 Course | Huawei Talent Online | 2024 |
 
 ---
 
