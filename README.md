@@ -96,8 +96,14 @@ I love turning messy, raw data into clean datasets, clear insights, and predicti
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bunga-sky&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunga-sky&layout=compact&theme=radical&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=bunga-sky&theme=radical&hide_border=true" height="160"/>
 </p>
 
-<p align="center"><em>Always learning, always growing.</em></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bunga-sky&theme=radical" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bunga-sky&theme=radical" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bunga-sky&theme=react-dark&hide_border=true&bg_color=141321&color=fe428e&line=a9fef7&point=fe428e" />
+</p>
