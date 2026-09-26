@@ -22,7 +22,7 @@
 
 ## About Me
 
-I'm an **Informatics student at Universitas Negeri Padang** (GPA 3.84) and a **Data Science Specialist cohort member at Asah led by Dicoding**.
+I'm an **Informatics student at Universitas Negeri Padang** and a **Data Science Specialist cohort member at Asah led by Dicoding**.
 
 I love turning messy, raw data into clean datasets, clear insights, and predictive models. My focus is on **Data Science**, with a strong interest in **Data Engineering**.
 
